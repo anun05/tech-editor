@@ -1,5 +1,4 @@
 # tech-editor
-  ![Badge for GitHub repo top language](https://img.shields.io/static/v1?label=License&message=MIT&color=brightgreen) 
 The task in hand isto build a text editor that runs in the browser. The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline. 
 
   ## Description
